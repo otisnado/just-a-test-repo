@@ -20,7 +20,7 @@ estimacion de usuarios 2 + 8 + 16 + 16
 
 tomcat 10.1 y OpenJDK 17 o 21 o 23
 
-ewgfrgrg
+ewgfrgrggrwegwr
 php
 
 
