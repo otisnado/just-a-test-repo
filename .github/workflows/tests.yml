@@ -38,7 +38,7 @@ jobs:
             cfengine: "adobe@2023"
             experimental: true
           - coldboxVersion: "be"
-            cfengine: "boxlang@1"
+            cfengine: "boxlang@be"
             experimental: true
     steps:
       - name: Checkout Repository
